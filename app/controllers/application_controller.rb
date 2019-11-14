@@ -13,3 +13,4 @@ end
 
 #this is the main controller. other controllers can inherit from here. other times the other controllers will simply inhere from the Sinatra::Base 
 
+# the waitresses helps the app connect to browser and browser to app ??

@@ -13,3 +13,5 @@ def self.all
   @@all 
 end 
 end
+
+#models folder holds the logic of app...basically the kitchen and cooks
